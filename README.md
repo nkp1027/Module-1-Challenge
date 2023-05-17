@@ -53,3 +53,7 @@ The simplest metric one can use to determine success is just simply the amount o
 FinnModelsLab outlines perfectly the metrics that most fintech companies use aka KPI's (key performance indicators). These include Revenue Growth, Customer Acquisition Cost, Monthly Active Users, Retention Rate, Market Share, Cost of Goods Sold and Cash Flow. Based on this outline and comparing data to Cash Apps competitor's which we already discussed, it clearly shows that Cash App is dominating the industry right now and is not slowing down. (see charts above for reiterating this point.)
 
 In comparison to the competition, not only does Cash App have more downloads than them but monthly users are on the rise as well. 
+To reiterate previous statements, it is the number one finance app in the app store and has been for years now. It is the 8th most downloaded app in 2021. DigitalNative put it best when they stated, "Cash App surpassed Venmo in total users, and over the past four years, the gap has widened." This is due to viral marketing strategies that Cash App has use
+
+Here is a quick summary of what exactly has happened since the beginning of Cash App and the broadened reach and exponential growth the app has had.
+<img width="360" alt="Square growth" src="https://github.com/nkp1027/Module-1-Challenge/assets/133065472/7b814c9c-2f33-4d0b-a066-e31d4d1225b4">
