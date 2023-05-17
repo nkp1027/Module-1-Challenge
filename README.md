@@ -50,3 +50,4 @@ Based on the above data, one can conclude that Cash App is continually rising th
 
 The simplest metric one can use to determine success is just simply the amount of downloads Cash App has vs its competitors. AppMagic stated that "Cash App has been downloaded by 36M+ people in the US so far this year. That almost matches Venmo's and PayPal's downloads combined." [AppMagic Stats]([AppMagic Stats](https://appmagic.rocks/dashboards/637c82a880ae5?promoCode=63e0fc7fb0909))
 
+FinnModelsLab [FinnModelsLab]([FinnModelsLab](https://finmodelslab.com/blogs/blog/fintech-kpi-metrics)) outlines perfectly the metrics that most fintech companies use aka KPI's (key performance indicators). These include Revenue Growth, Customer Acquisition Cost, Monthly Active Users, Retention Rate, Market Share, Cost of Goods Sold and Cash Flow. 
