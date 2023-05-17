@@ -22,3 +22,4 @@ Cash App, again, is a one stop shop for any individual that wants to have a bank
 According to Listerhill Credit Union, the advantages of using this app to reiterate are as follows: Instant payments, send/receive payments for free, splitting bills, direct deposits, free debit card, withrawing funds from and ATM, no account fees, bill pay, free stock trading and crypto selling.
 The unfair advantage is that again, Cash App is a one stop shop for all your financial needs. It combines everything into one app that adds convenience that no other app has. 
 
+The technologies used by Cash App are: HTML5, Google Fonts, Google Tag Manager, SQLDelight, CrashKiOS from TouchLab, Javascript, Bitcoin Network blockchain, 
