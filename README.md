@@ -4,7 +4,7 @@
 
 **Incorporated:** October 15th, 2013
 
-**Founders:** Bob Lee, Square, Inc. (now Block, Inc.)
+**Founders:** Bob Lee, Jack Dorsey, Jim McKelvey, Square, Inc. (now Block, Inc.)
 
 **Origin:** Cash App wanted to compete as a peer to peer transfer app and then expand itself into many other sectors such as crypto, investments etc.
 
@@ -20,7 +20,7 @@ According to DigitalNative, Cash App is the top financial application offered on
 
 Cash App, again, is a one stop shop for any individual that wants to have a bank account, invest in stocks and access options to get into crypto trading. Something that they utilized that no other app did at the time was the app was made to be a social media app essentially. What I mean by this is that you can connect to businesses, other individuals etc. with ease to make peer to peer transactions, payments, filing taxes and all with a few taps on your device. In this day and age, social media is king and Cash App capitalized on that and soared to the number one spot of financial applications. Cash App also offers a debit card now that one can use in physical locations for payments, withdrawing funds from an ATM etc. 
 According to Listerhill Credit Union, the advantages of using this app to reiterate are as follows: Instant payments, send/receive payments for free, splitting bills, direct deposits, free debit card, withrawing funds from and ATM, no account fees, bill pay, free stock trading and crypto selling.
-The unfair advantage is that again, Cash App is a one stop shop for all your financial needs. It combines everything into one app that adds convenience that no other app has. 
+The unfair advantage is that again, Cash App is a one stop shop for all your financial needs. It combines everything into one app that adds convenience that no other app has. According to the Crunchbase profile, "Cash App is the fastest growing financial brand in the world."
 
 The technologies used by Cash App provided by Stack Share are: HTML5, Google Fonts, Google Tag Manager, SQLDelight, CrashKiOS from TouchLab, Javascript, Bitcoin Network blockchain, Ruby, Java, Amazon EC2, Swift, Airflow, Ember.js, Snowflake, Vertica
 
@@ -34,7 +34,7 @@ Cash App has numerous competetors such as: Google Pay, Venmo, PayPal, Zelle, App
 "It's clear that Square wants Cash App to be more than simple payment tool, but a hub for all financial interests." -BusinessofApps
 
 ## Results
-**Impact:** Lets go over some statistics pulled from BusinessofApps.com
+**Impact:**
 Cash App had a gross profit of $2.95 billion which is 43% more that the previous year. 13 million users have used the card offered and the app itself has 51 million users monthly as of 2022.
 ![Cash app revenue](https://github.com/nkp1027/Module-1-Challenge/assets/133065472/869dc3ac-bb8d-491f-ae1a-b32d60861827)
 
@@ -45,5 +45,8 @@ To reiterate the usage statistics, the app itself is experiencing growth that is
 ![Cash App Users](https://github.com/nkp1027/Module-1-Challenge/assets/133065472/3b76eb5d-0590-4c86-8dc9-5597a2124b51)
 
 Based on the above data, one can conclude that Cash App is continually rising the ranks from usage, net profit and gross profit overall thus proving that the business impact of this company is quite large.
+
 *All of the above data was collected by BusinessofApps*
+
+The simplest metric one can use to determine success is just simply the amount of downloads Cash App has vs its competitors. AppMagic stated that "Cash App has been downloaded by 36M+ people in the US so far this year. That almost matches Venmo's and PayPal's downloads combined." [Mobile Payments Race]([url](https://appmagic.rocks/dashboards/637c82a880ae5?promoCode=63e0fc7fb0909))
 
