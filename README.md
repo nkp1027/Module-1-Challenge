@@ -25,3 +25,10 @@ The unfair advantage is that again, Cash App is a one stop shop for all your fin
 The technologies used by Cash App provided by Stack Share are: HTML5, Google Fonts, Google Tag Manager, SQLDelight, CrashKiOS from TouchLab, Javascript, Bitcoin Network blockchain, Ruby, Java, Amazon EC2, Swift, Airflow, Ember.js, Snowflake, Vertica
 
 ## Landscape
+
+Cash App actually has it's hands in multiple domains. The main ones that are used in the app are Payments/Billing, Blockchain and Cryptocurrencies, Capital Investment, Wealth Management, Personal Finance and Open Banking. You can argue that since it is essentially your own bank account as well, it also is considered a part of the Investment Management domain. 
+
+From the start, Cash App actually lost money when people signed up to be a part of the service. Since then they have improved their monetary gains with the introduction of Cashtags and allowing people to actually hold money. Accoriding to BusinessofApps, Square now makes over $30 per person that signs up. This made the app very competitive against others in the same field. Since the introduction of the app, they have incorporated more and more avenues for people to make money via investing and stock trading and Bitcoin trading which has propelled the apps revenue significantly. Again, this is the only app that has utilized so many domains in one app, thus allowing people to conveniently manage money, invest, file taxes, send and receive money along with many more features. Furthermore, social media definitely influenced the apps dominance by recruiting famous artists to promote and basically hand out money to fans as giveaways which really caused the boom in monthly users that the app is experiencing to date.
+
+Cash App has numerous competetors such as: Google Pay, Venmo, PayPal, Zelle, Apple Pay, Wise, Xoom etc.
+
