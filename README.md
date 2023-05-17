@@ -71,6 +71,7 @@ These technologies are appropriate for this solution since they are already impl
 
 ## Addendum
 **Resources Used:**
+
 https://en.wikipedia.org/wiki/Cash_App
 
 https://www.forbes.com/advisor/money-transfer/what-is-cash-app/#:~:text=Cash%20App%20is%20a%20P2P,financial%20platform%2C%20not%20a%20bank.
