@@ -72,14 +72,25 @@ These technologies are appropriate for this solution since they are already impl
 ## Addendum
 **Resources Used:**
 https://en.wikipedia.org/wiki/Cash_App
+
 https://www.forbes.com/advisor/money-transfer/what-is-cash-app/#:~:text=Cash%20App%20is%20a%20P2P,financial%20platform%2C%20not%20a%20bank.
+
 https://digitalnative.substack.com/p/the-rise-of-cash-app-
+
 https://www.investopedia.com/articles/company-insights/090916/how-square-cash-works-and-makes-money-sq.asp#:~:text=What%20Services%20Does%20Cash%20App,along%20with%20stocks%20and%20ETFs.
+
 https://listerhill.com/blog/2023/1/cash-app-pros-and-cons
+
 https://www.businessofapps.com/data/cash-app-statistics/
+
 https://cash.app/
+
 https://medium.com/scale-fanatics/how-cash-apps-performance-marketing-generated-190-million-downloads-eb8b7dab2af6
+
 https://appmagic.rocks/dashboards/637c82a880ae5?promoCode=63e0fc7fb0909
+
 https://finmodelslab.com/blogs/blog/fintech-kpi-metrics
+
 https://medium.com/emerging-mobile/how-squares-cash-app-is-evolving-to-stay-competitive-in-the-peer-to-peer-payment-market-ae2bb624914e
+
 https://www.findabetterbank.com/cash-app-pros-and-cons/
