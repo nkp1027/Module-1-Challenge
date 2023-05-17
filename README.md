@@ -30,5 +30,17 @@ Cash App actually has it's hands in multiple domains. The main ones that are use
 
 From the start, Cash App actually lost money when people signed up to be a part of the service. Since then they have improved their monetary gains with the introduction of Cashtags and allowing people to actually hold money. Accoriding to BusinessofApps, Square now makes over $30 per person that signs up. This made the app very competitive against others in the same field. Since the introduction of the app, they have incorporated more and more avenues for people to make money via investing and stock trading and Bitcoin trading which has propelled the apps revenue significantly. Again, this is the only app that has utilized so many domains in one app, thus allowing people to conveniently manage money, invest, file taxes, send and receive money along with many more features. Furthermore, social media definitely influenced the apps dominance by recruiting famous artists to promote and basically hand out money to fans as giveaways which really caused the boom in monthly users that the app is experiencing to date.
 
-Cash App has numerous competetors such as: Google Pay, Venmo, PayPal, Zelle, Apple Pay, Wise, Xoom etc.
+Cash App has numerous competetors such as: Google Pay, Venmo, PayPal, Zelle, Apple Pay, Wise, Xoom, Robinhood etc.
+"It's clear that Square wants Cash App to be more than simple payment tool, but a hub for all financial interests." -BusinessofApps
+
+## Results
+**Impact:** Lets go over some statistics pulled from BusinessofApps.com
+Cash App had a gross profit of $2.95 billion which is 43% more that the previous year. 13 million users have used the card offered and the app itself has 51 million users monthly as of 2022.
+![Cash app revenue](https://github.com/nkp1027/Module-1-Challenge/assets/133065472/869dc3ac-bb8d-491f-ae1a-b32d60861827)
+The annual revenue has also increased significantly since 2018.
+![Cash App revenue 2](https://github.com/nkp1027/Module-1-Challenge/assets/133065472/89ea5f21-32ea-4348-9cdb-cf2cf13a592b)
+To reiterate the usage statistics, the app itself is experiencing growth that is continuously growing year after year.
+![Cash App Users](https://github.com/nkp1027/Module-1-Challenge/assets/133065472/3b76eb5d-0590-4c86-8dc9-5597a2124b51)
+Based on the above data, one can conclude that Cash App is continually rising the ranks from usage, net profit and gross profit overall thus proving that the business impact of this company is quite large.
+*All of the above data was collected by BusinessofApps*
 
