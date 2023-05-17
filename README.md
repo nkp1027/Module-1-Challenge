@@ -56,4 +56,15 @@ In comparison to the competition, not only does Cash App have more downloads tha
 To reiterate previous statements, it is the number one finance app in the app store and has been for years now. It is the 8th most downloaded app in 2021. DigitalNative put it best when they stated, "Cash App surpassed Venmo in total users, and over the past four years, the gap has widened." This is due to viral marketing strategies that Cash App has use
 
 Here is a quick summary of what exactly has happened since the beginning of Cash App and the broadened reach and exponential growth the app has had.
+
 <img width="360" alt="Square growth" src="https://github.com/nkp1027/Module-1-Challenge/assets/133065472/7b814c9c-2f33-4d0b-a066-e31d4d1225b4">
+
+## Recommendations
+
+Basing my judgement on all the research provided above, if there is a company out there looking to mimic the growth of Cash App and it's dominance in fintech, I would highly suggest not only allowing peer to peer transactions but also incorporating a large variety of ways that individuals can use the app for multiple domains in FinTech. Albeit, it would be copying what Cash App has done, it seems the only way to mimic this is to allow Bitcoin trading, Stock Trading, Wealth Management, Tax Filing and even more social aspects that led to the rise of Cash App itself. You need to be able to combine every personal finance need in one place but also make it consumer friendly and easy to use. One thing that was noticed in the research done was that one of the ways to be profitable is lowering acquisition cost of users. DigitalNative shows a great example where Cash App has a $10 acquisition cost vs NeoBanks ($30-$50) and Retail Banks ($300-$600).
+
+Some cons of using Cash App accoding to Findabetterbank.com include a low limit for transactions in the first month and no international use outside of the US and UK (yet). This would be something to consider offering if you are a start up or a competitor to Cash App. Allowing funds to be FDIC insured would draw more attention from established individuals that use Retal Banks. If you were to include international use, you would most likely exponentially increase your reach to nations outside of the US and UK thus bringing in a plethora of nationalities to use your app for transactions and trading. 
+
+To incorporate these additions you would need to use technologies that can monitor worldwide transactions. For example, Western Union implements technologies that allow its reach to be worldwide. If a company could include this in their application, the reach you could have with your FinTech app not only becomes exponentially larger but you can monitor transactions making them safe to do globally. Some of these technologies include but are not limited to: AI and ML, Blockchain, Cloud Computing, IoT, Swift.
+
+These technologies are appropriate for this solution since they are already implemented in Western Union which already does global peer to peer trasactions that are not offered by apps like Cash App. 
