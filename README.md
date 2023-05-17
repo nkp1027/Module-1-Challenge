@@ -48,5 +48,5 @@ Based on the above data, one can conclude that Cash App is continually rising th
 
 *All of the above data was collected by BusinessofApps*
 
-The simplest metric one can use to determine success is just simply the amount of downloads Cash App has vs its competitors. AppMagic stated that "Cash App has been downloaded by 36M+ people in the US so far this year. That almost matches Venmo's and PayPal's downloads combined." [AppMagic Stats]([url](https://appmagic.rocks/dashboards/637c82a880ae5?promoCode=63e0fc7fb0909))
+The simplest metric one can use to determine success is just simply the amount of downloads Cash App has vs its competitors. AppMagic stated that "Cash App has been downloaded by 36M+ people in the US so far this year. That almost matches Venmo's and PayPal's downloads combined." [AppMagic Stats]([AppMagic Stats](https://appmagic.rocks/dashboards/637c82a880ae5?promoCode=63e0fc7fb0909))
 
